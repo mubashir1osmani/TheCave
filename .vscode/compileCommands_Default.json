@@ -1,0 +1,66 @@
+[
+	{
+		"file": "/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/Source/MyProject2/DebugMacros.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/.vscode/compileCommands_Default/MyProject2.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/Source/MyProject2/MyProject2.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/.vscode/compileCommands_Default/MyProject2.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/Source/MyProject2/MyProject2.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/.vscode/compileCommands_Default/MyProject2.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/Source/MyProject2/MyProject2.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/.vscode/compileCommands_Default/MyProject2.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/Source/MyProject2/Private/MyActor.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/.vscode/compileCommands_Default/MyProject2.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/Source/MyProject2/Public/MyActor.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/.vscode/compileCommands_Default/MyProject2.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/Source/MyProject2/Public/Pawns/Bird.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/.vscode/compileCommands_Default/MyProject2.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/Source/MyProject2/Public/Pawns/Bird.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mubashirosmani/Desktop/Unreal/MyProject2 5.4/.vscode/compileCommands_Default/MyProject2.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	}
+]
